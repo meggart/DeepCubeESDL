@@ -1,0 +1,20 @@
+[deps]
+ArchGDAL = "c9ce4bd3-c3d5-55b8-8973-c0e20141b8c3"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+ESDL = "359177bc-a543-11e8-11b7-bb015dba3358"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+NetCDF = "30363a11-5582-574a-97bb-aa9a979735b9"
+YAXArrays = "c21b50f5-aa40-41ea-b809-c0f5e47bfa5c"
+Zarr = "0a941bbe-ad1d-11e8-39d9-ab76183a1d99"
+
+[compat]
+ArchGDAL = "0.7"
+CSV = "0.8"
+DataFrames = "1"
+HTTP = "0.9"
+IJulia = "1"
+NetCDF = "0.11"
+YAXArrays = "0.1"
+Zarr = "0.6"
